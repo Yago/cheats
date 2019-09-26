@@ -1,0 +1,4 @@
+% server
+
+# BrowserSync - Start client server with live reload
+npx browser-sync start --server --files <path> --port 3000
